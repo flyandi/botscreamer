@@ -20,10 +20,15 @@ It comes with 4 pre-loaded sounds (simple 16bit PCM wav files) and even has a mu
 Get the parts below:
 
 1x ESP8266 Mini D1 (https://amzn.to/34F7Ud2)
+
 1x MAX98357 I2S amplifier (https://amzn.to/3rzCkqs)
+
 1x 4ohm/3w speaker with a large magnet (https://amzn.to/3Hz32op)
+
 1x Tactile button 
+
 1x 10k resistor (for the button)
+
 1x 4-wire that connects to your FC
 
 If you want LED lights, you also need a some WS8212 RGB LED's.
