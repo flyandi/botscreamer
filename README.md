@@ -49,7 +49,20 @@ There is a case in the `/3d` folder that fits all parts. Print with TPU95 with 2
 
 # Deploy it
 
-Use the Arduino IDE to deploy the code to the ESP8266 and use the SPIFFS tool to upload the files.
+Use the Arduino IDE to deploy the code to the ESP8266 and use the SPIFFS tool to upload the files. RandomNerdTutorials has way better explanation than I could do, so head over to https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/ to learn more how to do that.
+
+If you haven't actually installed the ESP8266 board definitions you need to use the Arduino IDE Platform Manager to install the ESP8266. Once again RDT has you covered at https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
+
+There are a few libraries needed that can be downloaded via the Arduino IDE Library Manager:
+
++ Adafruit NeoPixel Library
++ ESP8266Audio Library
+
+Once done, hook up your ESP8266 and upload it. 
+
+# Configuration
+
+There are some configurations that I explained in the code itself. Check it there.
 
 # Fly it
 
@@ -68,3 +81,7 @@ There are 4 modes selectable through the button and the fifth mode is the music 
 In Music Maker Mode the BS is playing a continues sound that can be modified using YAW. It plays 14 notes across the 360 degree. It runs on a static 100bpm so you have about 600ms to turn your quad to modify the sound which is plenty enough. 
 
 `Make some tunez!`
+
+# Audio Files
+
+All audio files used are standard 16bit PCM encoded wave files with no compressions. Keep it short as the ESP8266 has about 2.5MB useable space. I recommend to keep it under 3s per audio file.
