@@ -5,8 +5,8 @@ ______  _____ _____ _____ _____ ______ _____  ___  ___  ___ ___________
 | ___ \| | | | | |  `--. \ |    |    /|  __||  _  || |\/| ||  __||    /
 | |_/ /\ \_/ / | | /\__/ / \__/\| |\ \| |___| | | || |  | || |___| |\ \
 \____/  \___/  \_/ \____/ \____/\_| \_\____/\_| |_/\_|  |_/\____/\_| \_|
-CREATED BY FLY&I (flyandi.net)
-Learn more at https://github.com/flyandi/botscreamer
+ENVISIONED BY BOTGRINDER AND CREATED BY FLY&I
+Learn more at https://github.com/flyandi/botscreamer or https://flyandi.net
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
