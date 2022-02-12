@@ -13,7 +13,10 @@ The Botscreamer is a tiny 3W speaker system that reacts on the attitude of your 
 
 It comes with 4 pre-loaded sounds (simple 16bit PCM wav files) and even has a music maker mode that reacts on yaw (14 notes across 360 degrees).
 
+See it in action here https://www.youtube.com/watch?v=8f52Pep6f3Y
+
 <img src="docs/photo0.jpg">
+
 
 # Build it
 
